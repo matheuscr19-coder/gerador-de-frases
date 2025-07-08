@@ -18,7 +18,7 @@ Projeto simples criado com HTML, CSS e JavaScript que gera frases motivacionais 
 
 1. Baixe ou clone este repositório:
    ```bash
-   git clone [https://matheuscr19-coder.github.io/gerador-de-frases](https://matheuscr19-coder.github.io/gerador-de-frases)
+   git clone https://matheuscr19-coder.github.io/gerador-de-frases
    ```
 
 ## Para contribuir
