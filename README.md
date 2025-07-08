@@ -16,9 +16,10 @@ Projeto simples criado com HTML, CSS e JavaScript que gera frases motivacionais 
 
 ## Como usar
 
-1. Clone ou faça download deste repositório.
-2. Abra o arquivo `index.html` no seu navegador.
-3. Clique no botão para gerar uma nova frase motivacional.
+1. Baixe ou clone este repositório:
+   ```bash
+   git clone https://matheuscr19-coder.github.io/gerador-de-frases/
+   ```
 
 ## Para contribuir
 
